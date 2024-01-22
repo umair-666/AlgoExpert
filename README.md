@@ -1,4 +1,5 @@
 # Algorithm Visualizer
+![Algorithm Visualizer](https://github.com/umair-666/AlgoExpert/blob/main/visualise.png)
 
 ## Overview
 
