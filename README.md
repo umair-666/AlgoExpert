@@ -1,15 +1,12 @@
 # Algorithm Visualizer
 
-
-
-
 ## Overview
 
 Algorithm Visualizer is a Python project that allows you to visualize various pathfinding and graph traversal algorithms. It provides an interactive graphical interface for users to understand and observe how algorithms work on a grid.
 
 ## Features
 
-- Visualization of popular algorithms such as Dijkstra's, BFS, DFS, Best First Search, A* Algorithm, and MST.
+- Visualization of popular algorithms such as Dijkstra's, BFS, DFS, Best First Search, A* Algorithm.
 - Interactive grid where users can set the start and end points, draw obstacles, and run algorithms.
 - Real-time visualization of the algorithm's progress.
 - Clear grid functionality for easy experimentation.
